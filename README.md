@@ -1,2 +1,11 @@
 # calculadora-potencias-python
-Calculadora de potência elétrica (P, S e Q) desenvolvida em Python
+Projeto desenvolvido em Python para cálculo de:
+- Potência ativa (P)
+- Potência aparente (S)
+- Potência reativa (Q)
+
+## Tecnologias
+- Python
+
+## Autor
+Enzo Stahal Freitas
